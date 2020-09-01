@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كورونا</string>
+    <string name="Confirmed_text">الحالات المؤكدة</string>
+    <string name="Confirmed_num">1.6014</string>
+    <string name="New_Cases_text">حالات جديدة</string>
+    <string name="Total_Recovered_text">إجمالي المتعافين</string>
+    <string name="Total_deat_text">مجموع الموت</string>
+    <string name="death_num">50</string>
+    <string name="helth_text">من المركز الصحي</string>
+    <string name="map_text">خريطة عالمية</string>
+    <string name="newe_cases_num">40</string>
+    <string name="newe_cases_rat">5.9%</string>
+    <string name="newe_cases_rat2">6.34%</string>
+    <string name="newe_cases_rat3">9.43%</string>
+    <string name="newe_cases_st">من الأسبوع الماضي</string>
+    <string name="newe_cases_st2">معدل المتعافين</string>
+    <string name="people_text">الناس</string>
+    <string name="preventions_Clean_Disinfect_text">المطهرات</string>
+    <string name="preventions_Use_Masks_text">استخدم الأقنعة</string>
+    <string name="preventions_text">الوقاية</string>
+    <string name="preventions_wash_hand_text">غسل اليد</string>
+    <string name="recov_num">600</string>
+
+
+</resources>

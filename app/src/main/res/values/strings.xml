@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Covid19 Ui App</string>
+    <string name="Confirmed_text">Confirmed Cases</string>
+    <string name="Total_deat_text"> Total death</string>
+    <string name="Total_Recovered_text"> Total Recovered</string>
+    <string name="New_Cases_text"> New Cases</string>
+    <string name="preventions_text">preventions </string>
+    <string name="preventions_wash_hand_text">wash hand</string>
+    <string name="preventions_Use_Masks_text">Use Masks</string>
+    <string name="preventions_Clean_Disinfect_text">"Clean Disinfect "</string>
+    <string name="Confirmed_num">1.6014</string>
+    <string name="death_num">50</string>
+    <string name="recov_num">600</string>
+    <string name="newe_cases_num">40</string>
+    <string name="newe_cases_st">From last week</string>
+    <string name="newe_cases_st2">Recovery Rate</string>
+    <string name="newe_cases_rat">5.9%</string>
+    <string name="newe_cases_rat2">6.34%</string>
+    <string name="newe_cases_rat3">9.43%</string>
+    <string name="people_text">People</string>
+    <string name="map_text">Glopal Map</string>
+    <string name="helth_text">From Health Center</string>
+</resources>
